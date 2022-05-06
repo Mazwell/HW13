@@ -1,4 +1,4 @@
-
+# Shows the ASCII art images
 class Display:
     ascii_art = [
 '''
